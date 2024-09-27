@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/main.dir/main.cpp.o CMakeFiles/main.dir/XNOR.cpp.o CMakeFiles/main.dir/XAND.cpp.o CMakeFiles/main.dir/XNAND.cpp.o CMakeFiles/main.dir/XOR.cpp.o CMakeFiles/main.dir/NAND.cpp.o CMakeFiles/main.dir/NOR.cpp.o CMakeFiles/main.dir/S_AND.cpp.o CMakeFiles/main.dir/S_OR.cpp.o -o main 
